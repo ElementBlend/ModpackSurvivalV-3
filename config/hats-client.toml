@@ -34,4 +34,6 @@
 	hatLauncherRandomHatSpeed = 5
 	#Lagging? This might help give you back some frames.
 	disableHatNameRenderInHatSelector = false
+	#Disable the toast pop-up that tells you that Hats is running in Client-Only Mode.
+	disableClientOnlyModeWarning = false
 

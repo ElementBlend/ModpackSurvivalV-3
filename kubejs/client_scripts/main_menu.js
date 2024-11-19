@@ -143,10 +143,18 @@ events.listen("ui.main_menu", (event) => {
 
         //Mojang
         ui.label((l) => {
-            l.height = 10;
+            l.height = 8;
             l.name = "Copyright Mojang AB. Do not distribute!";
             l.x = 5;
-            l.y = ui.height - 14;
+            l.y = ui.height - 12;
+        });
+
+        //MMS
+        ui.label((l) => {
+            l.height = 8;
+            l.name = "MMS V-3.0";
+            l.x = 5;
+            l.y = ui.height - 20;
         });
     });
 });

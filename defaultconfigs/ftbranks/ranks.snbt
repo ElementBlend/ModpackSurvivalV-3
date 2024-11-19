@@ -1,0 +1,8 @@
+{
+	admin: {
+		name: "Admin"
+		power: 1000
+		condition: "op"
+		ftbranks.name_format: "<&c{name}&r>"
+	}
+}
