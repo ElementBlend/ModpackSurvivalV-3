@@ -1,0 +1,8 @@
+{
+	chapter_groups: [
+		{ id: "685E0C386DF557F5", title: "{academy.storage.group}" }
+		{ id: "1727F010BC0A535B", title: "{academy.tech.group}" }
+		{ id: "563EBA56ED455559", title: "{academy.magic.group}" }
+		{ id: "05CEEB7E678705A3", title: "{academy.misc.chapter}" }
+	]
+}

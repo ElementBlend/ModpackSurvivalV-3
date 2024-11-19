@@ -1,0 +1,11 @@
+{
+	id: "000000000000035F"
+	order_index: 10
+	title: "{academy.controller.rewards}"
+	loot_size: 6
+	use_title: true
+	rewards: [
+		{ item: "refinedstorage:silicon", count: 3 }
+		{ item: "refinedstorage:processor_binding", count: 3 }
+	]
+}

@@ -1,0 +1,24 @@
+{
+	id: "000000000000027E"
+	order_index: 6
+	title: "{academy.coolthings.rewards.carrots}"
+	loot_size: 1
+	use_title: true
+	rewards: [
+		{ item: "cyclic:carrot_ender" }
+		{ item: "cyclic:diamond_carrot_health" }
+		{ item: "cyclic:redstone_carrot_speed" }
+		{ item: "cyclic:emerald_carrot_jump" }
+		{ item: "cyclic:lapis_carrot_variant" }
+		{ item: "cyclic:toxic_carrot" }
+	]
+	loot_crate: {
+		drops: {
+			boss: 0
+			passive: 0
+			monster: 0
+		}
+		color: 16777215
+		string_id: "academy_coolthings_rewards_carrots"
+	}
+}

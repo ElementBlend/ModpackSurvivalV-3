@@ -1,0 +1,30 @@
+
+[general]
+	#How many times the tape roll can be used before it breaks
+	#Range: 0 ~ 2147483646
+	tape_roll_uses = 8
+	#TileEntities to disallow (whitelist takes precedence)
+	#DEPRECATED: Use the tileentity tag 'packingtape:te_blacklist' instead. This config be removed in the future.
+	#NOTE: This list now uses 'Block Entity Type' IDs. Eg. the shulker boxes are 'minecraft:shulker_box'.
+	blacklist = [
+		"waystones:waystone",
+		"waystones:mossy_waystone",
+		"waystones:sandy_waystone",
+		"powah:reactor_part",
+		"powah:reactor_starter",
+		"powah:reactor_basic",
+		"powah:reactor_hardened",
+		"powah:reactor_blazing",
+		"powah:reactor_niotic",
+		"powah:reactor_spirited",
+		"powah:reactor_nitro"
+
+	]
+	#TileEntities to allow regardless of the blacklist and vanilla restrictions.
+	#DEPRECATED: Use the tileentity tag 'packingtape:te_whitelist' instead. This config be removed in the future.
+	#WARNING: This whitelist bypasses the 'only ops can copy' limitation of Minecraft, which can result in security issues, don't whitelist things unless you know what the side-effects will be.
+	#NOTE: This list now uses 'Block Entity Type' IDs. Eg. the spawner is 'minecraft:mob_spawner'.
+	whitelist = ["minecraft:mob_spawner"]
+	#Whether the tape roll consumes paper when used
+	consume_paper = true
+

@@ -1,0 +1,23 @@
+{
+	id: "000000000000012F"
+	order_index: 1
+	title: "{academy.thermalclothes.rewards}"
+	loot_size: 16
+	use_title: true
+	rewards: [
+		{ item: "thermal:phyto_grenade" }
+		{ item: "thermal:fire_grenade" }
+		{ item: "thermal:earth_grenade" }
+		{ item: "thermal:ice_grenade" }
+		{ item: "thermal:lightning_grenade" }
+	]
+	loot_crate: {
+		drops: {
+			boss: 0
+			passive: 0
+			monster: 0
+		}
+		color: 16777215
+		string_id: "grenades"
+	}
+}

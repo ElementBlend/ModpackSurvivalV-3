@@ -1,0 +1,29 @@
+{
+	id: "0000000000000171"
+	order_index: 2
+	title: "{academy.ifplant.rewards}"
+	loot_size: 16
+	use_title: true
+	rewards: [
+		{ item: "minecraft:wheat_seeds" }
+		{ item: "minecraft:pumpkin_seeds" }
+		{ item: "minecraft:melon_seeds" }
+		{ item: "minecraft:beetroot_seeds" }
+		{ item: "thermal:barley_seeds" }
+		{ item: "thermal:corn_seeds" }
+		{ item: "thermal:onion_seeds" }
+		{ item: "thermal:radish_seeds" }
+		{ item: "thermal:rice_seeds" }
+		{ item: "thermal:sadiroot_seeds" }
+		{ item: "thermal:spinach_seeds" }
+		{ item: "thermal:bell_pepper_seeds" }
+		{ item: "thermal:eggplant_seeds" }
+		{ item: "thermal:green_bean_seeds" }
+		{ item: "thermal:peanut_seeds" }
+		{ item: "thermal:strawberry_seeds" }
+		{ item: "thermal:tomato_seeds" }
+		{ item: "thermal:hops_seeds" }
+		{ item: "thermal:tea_seeds" }
+		{ item: "thermal:frost_melon_seeds" }
+	]
+}

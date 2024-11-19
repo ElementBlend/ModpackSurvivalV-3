@@ -1,0 +1,241 @@
+{
+	id: "754704BDA6452093"
+	order_index: 12
+	title: "{academy.stelrefrtable.rewards}"
+	loot_size: 1
+	use_title: true
+	rewards: [
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [
+						{
+							lvl: 2s
+							id: "minecraft:fortune"
+						}
+						{
+							lvl: 2s
+							id: "minecraft:unbreaking"
+						}
+						{
+							lvl: 5s
+							id: "minecraft:fire_protection"
+						}
+						{
+							lvl: 5s
+							id: "minecraft:blast_protection"
+						}
+						{
+							lvl: 5s
+							id: "minecraft:projectile_protection"
+						}
+						{
+							lvl: 1s
+							id: "minecraft:multishot"
+						}
+						{
+							lvl: 1s
+							id: "astralsorcery:night_vision"
+						}
+					]
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:iron_sword"
+				Count: 1b
+				tag: {
+					astralsorcery: {
+						attribute_modifiers: [
+							{
+								mode: 0
+								id: [I;
+									-972152605
+									-826848352
+									-2106769535
+									-482834365
+								]
+								baseValue: 13.0f
+								type: "astralsorcery:thorns"
+							}
+							{
+								mode: 2
+								id: [I;
+									1592234187
+									256985971
+									-1230181090
+									-940289366
+								]
+								baseValue: 1.2325001f
+								type: "astralsorcery:chargeregeneration"
+							}
+						]
+						modifier_identifier: [I;
+							-742339167
+							2034518970
+							-2091083565
+							-129356430
+						]
+					}
+					Damage: 0
+					Enchantments: [{
+						lvl: 2s
+						id: "minecraft:unbreaking"
+					}]
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:iron_helmet"
+				Count: 1b
+				tag: {
+					astralsorcery: {
+						attribute_modifiers: [
+							{
+								mode: 1
+								id: [I;
+									-468078184
+									1021266325
+									-2029957430
+									377526329
+								]
+								baseValue: 0.14857143f
+								type: "astralsorcery:harvestspeed"
+							}
+							{
+								mode: 1
+								id: [I;
+									1022998703
+									-1822603370
+									-2100361296
+									-894461203
+								]
+								baseValue: 0.0825f
+								type: "astralsorcery:allres"
+							}
+							{
+								mode: 1
+								id: [I;
+									-1021248888
+									276713177
+									-1555034835
+									-854818144
+								]
+								baseValue: 0.19875f
+								type: "astralsorcery:chargecap"
+							}
+						]
+						modifier_identifier: [I;
+							1108465056
+							-448706159
+							-1763998167
+							1717134832
+						]
+					}
+					Damage: 0
+					Enchantments: [
+						{
+							lvl: 2s
+							id: "minecraft:unbreaking"
+						}
+						{
+							lvl: 5s
+							id: "minecraft:fire_protection"
+						}
+						{
+							lvl: 5s
+							id: "minecraft:blast_protection"
+						}
+						{
+							lvl: 5s
+							id: "minecraft:projectile_protection"
+						}
+						{
+							lvl: 1s
+							id: "astralsorcery:night_vision"
+						}
+					]
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:potion"
+				Count: 1b
+				tag: {
+					CustomPotionEffects: [
+						{
+							Ambient: 1b
+							CurativeItems: [{
+								id: "minecraft:milk_bucket"
+								Count: 1b
+							}]
+							ShowIcon: 1b
+							ShowParticles: 0b
+							Duration: 5246
+							Id: 3b
+							Amplifier: 1b
+						}
+						{
+							Ambient: 1b
+							CurativeItems: [{
+								id: "minecraft:milk_bucket"
+								Count: 1b
+							}]
+							ShowIcon: 1b
+							ShowParticles: 0b
+							Duration: 4174
+							Id: 22b
+							Amplifier: 1b
+						}
+						{
+							Ambient: 1b
+							CurativeItems: [{
+								id: "minecraft:milk_bucket"
+								Count: 1b
+							}]
+							ShowIcon: 1b
+							ShowParticles: 0b
+							Duration: 6030
+							Id: 10b
+							Amplifier: 2b
+						}
+						{
+							Ambient: 1b
+							CurativeItems: [{
+								id: "minecraft:milk_bucket"
+								Count: 1b
+							}]
+							ShowIcon: 1b
+							ShowParticles: 0b
+							Duration: 4845
+							Id: 18b
+							Amplifier: 1b
+						}
+						{
+							Ambient: 1b
+							CurativeItems: [{
+								id: "minecraft:milk_bucket"
+								Count: 1b
+							}]
+							ShowIcon: 1b
+							ShowParticles: 0b
+							Duration: 6225
+							Id: 16b
+							Amplifier: 0b
+						}
+					]
+					CustomPotionColor: -29667
+					Potion: "minecraft:awkward"
+					display: {
+						Name: "{\"color\":\"gold\",\"translate\":\"potion.astralsorcery.crafted.name\"}"
+					}
+				}
+			}
+		}
+	]
+}

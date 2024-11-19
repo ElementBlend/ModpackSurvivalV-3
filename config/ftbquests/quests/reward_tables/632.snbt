@@ -1,0 +1,23 @@
+{
+	id: "0000000000000278"
+	order_index: 3
+	title: "{academy.coolthings.rewards.tnts}"
+	loot_size: 8
+	use_title: true
+	rewards: [
+		{ item: "thermal:phyto_tnt" }
+		{ item: "thermal:fire_tnt" }
+		{ item: "thermal:earth_tnt" }
+		{ item: "thermal:ice_tnt" }
+		{ item: "thermal:lightning_tnt" }
+	]
+	loot_crate: {
+		drops: {
+			boss: 0
+			passive: 0
+			monster: 0
+		}
+		color: 16777215
+		string_id: "academy_coolthings_rewards_tnts"
+	}
+}

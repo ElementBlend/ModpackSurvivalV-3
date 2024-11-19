@@ -1,0 +1,178 @@
+{
+	id: "0000000000000279"
+	order_index: 4
+	title: "{academy.coolthings.rewards}"
+	loot_size: 1
+	use_title: true
+	rewards: [
+		{
+			item: {
+				id: "ftbquests:lootcrate"
+				Count: 1b
+				tag: {
+					type: "grenades"
+				}
+			}
+			weight: 6
+		}
+		{
+			item: {
+				id: "ftbquests:lootcrate"
+				Count: 1b
+				tag: {
+					type: "academy_coolthings_rewards_tnts"
+				}
+			}
+			weight: 6
+		}
+		{
+			item: {
+				id: "ftbquests:lootcrate"
+				Count: 1b
+				tag: {
+					type: "academy_coolthings_rewards_botaniaseeds_"
+				}
+			}
+			weight: 6
+		}
+		{ item: "botania:vine_ball", weight: 6 }
+		{
+			item: {
+				id: "botania:slime_bottle"
+				Count: 1b
+				tag: {
+					active: 1b
+				}
+			}
+			weight: 6
+		}
+		{ item: "botania:ender_hand", weight: 6 }
+		{ item: "botania:mana_cookie", weight: 6 }
+		{
+			item: {
+				id: "botania:mana_bottle"
+				Count: 1b
+				tag: { }
+			}
+			weight: 6
+		}
+		{ item: "botania:teru_teru_bozu", weight: 6 }
+		{ item: "botania:avatar", weight: 6 }
+		{ item: "botania:tiny_potato", weight: 6 }
+		{ item: "botania:hourglass", weight: 6 }
+		{ item: "botania:animated_torch", weight: 6 }
+		{ item: "charm:bat_bucket", weight: 6 }
+		{ item: "charm:glowball", weight: 6 }
+		{ item: "cyclic:plate_launch", weight: 6 }
+		{ item: "cyclic:screen", weight: 6 }
+		{ item: "cyclic:fan", weight: 6 }
+		{ item: "cyclic:water_candle", weight: 6 }
+		{ item: "cyclic:unbreakable_reactive", weight: 6 }
+		{
+			item: {
+				id: "cyclic:sleeping_mat"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 6
+		}
+		{ item: "cyclic:magic_net", weight: 6 }
+		{
+			item: {
+				id: "cyclic:charm_home"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 6
+		}
+		{
+			item: {
+				id: "cyclic:charm_world"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 6
+		}
+		{
+			item: {
+				id: "cyclic:elevation_wand"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 6
+		}
+		{
+			item: {
+				id: "ftbquests:lootcrate"
+				Count: 1b
+				tag: {
+					type: "academy_coolthings_rewards_carrots"
+				}
+			}
+			weight: 6
+		}
+		{ item: "darkutils:book_galactic", weight: 6 }
+		{ item: "darkutils:book_runelic", weight: 6 }
+		{ item: "darkutils:book_restore", weight: 6 }
+		{ item: "industrialforegoing:straw", weight: 6 }
+		{
+			item: {
+				id: "ftbquests:lootcrate"
+				Count: 1b
+				tag: {
+					type: "academy_coolthings_rewards_pp"
+				}
+			}
+			weight: 6
+		}
+		{
+			item: {
+				id: "quark:pickarang"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 6
+		}
+		{
+			item: {
+				id: "ftbquests:lootcrate"
+				Count: 1b
+				tag: {
+					type: "academy_coolthings_rewards_lofi"
+				}
+			}
+			weight: 6
+		}
+		{
+			item: {
+				id: "minecraft:potion"
+				Count: 1b
+				tag: {
+					Potion: "alexsmobs:long_clinging"
+				}
+			}
+			weight: 5
+		}
+		{ item: "cyclic:detector_item", weight: 6 }
+		{ item: "cyclic:detector_entity", weight: 6 }
+	]
+	loot_crate: {
+		drops: {
+			boss: 0
+			passive: 0
+			monster: 0
+		}
+		color: 16777215
+		string_id: "academy_coolthings_rewards"
+	}
+}

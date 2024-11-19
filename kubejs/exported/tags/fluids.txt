@@ -1,0 +1,57 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 24, 2020 1:04:42 AM
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#forge:latex
+- industrialforegoing:latex
+- industrialforegoing:latex_fluid
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:meat
+- industrialforegoing:meat
+- industrialforegoing:meat_fluid
+
+#forge:sewage
+- industrialforegoing:sewage
+- industrialforegoing:sewage_fluid
+
+#forge:milk
+- industrialforegoing:milk
+- industrialforegoing:milk_fluid
+- create:flowing_milk
+- create:milk
+
+#forge:honey
+- create:flowing_honey
+- create:honey
+
+#forge:sludge
+- industrialforegoing:sludge
+- industrialforegoing:sludge_fluid
+
+#forge:pink_slime
+- industrialforegoing:pink_slime
+- industrialforegoing:pink_slime_fluid
+
+#create:no_infinite_draining
+- astralsorcery:liquid_starlight
+
+#forge:biofuel
+- industrialforegoing:biofuel
+- industrialforegoing:biofuel_fluid
+
+#forge:xp_juice
+- xreliquary:xp_juice_still
+
+#forge:essence
+- industrialforegoing:essence
+- industrialforegoing:essence_fluid
