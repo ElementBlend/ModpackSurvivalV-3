@@ -4,5 +4,7 @@
 		power: 1000
 		condition: "op"
 		ftbranks.name_format: "<&c{name}&r>"
+        ftbchunks.max_claimed: 30000
+        ftbchunks.max_force_loaded: 30000
 	}
 }

@@ -1,5 +1,32 @@
 # Modpack Survival V-3 Changelog
 
+## -3.1 (Final)
+
+**This is the final version, as we have completed the Modpack. It just contains some bug fixes that we know while we are playing**
+
+Forge Version: 1.16.5-36.2.42  
+Total Mods: 158
+
+**Changes**
+
+- Fix the bug that registry duplication and cause server slowdown
+- Increase the range of the Wireless Transmitter
+- Add the center search bar for inventory
+
+**Added Mods**
+
+- More Overlays
+- Spark
+
+**Updated Mod**
+
+- Tesseract
+- Towers Of The Wild (Fork)
+
+**Removed Mod**
+
+- Light Overlays
+
 ## -3.0
 
 Forge Version: 1.16.5-36.2.42  

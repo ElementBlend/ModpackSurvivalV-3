@@ -152,7 +152,7 @@ events.listen("ui.main_menu", (event) => {
         //MMS
         ui.label((l) => {
             l.height = 8;
-            l.name = "MMS V-3.0";
+            l.name = "MMS V-3.1";
             l.x = 5;
             l.y = ui.height - 20;
         });

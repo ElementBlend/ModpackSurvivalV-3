@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "FTB Academy 1.16 (MMS V-3)",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": "SamLam140330",
   "files": [
     {
@@ -201,7 +201,7 @@
     },
     {
       "projectID": 379232,
-      "fileID": 4786690,
+      "fileID": 6082044,
       "required": true
     },
     {
@@ -315,11 +315,6 @@
       "required": true
     },
     {
-      "projectID": 325492,
-      "fileID": 3296489,
-      "required": true
-    },
-    {
       "projectID": 265917,
       "fileID": 3808959,
       "required": true
@@ -337,11 +332,6 @@
     {
       "projectID": 353928,
       "fileID": 4514691,
-      "required": true
-    },
-    {
-      "projectID": 386415,
-      "fileID": 3103750,
       "required": true
     },
     {
@@ -477,6 +467,16 @@
     {
       "projectID": 272515,
       "fileID": 3404330,
+      "required": true
+    },
+    {
+      "projectID": 391382,
+      "fileID": 5377022,
+      "required": true
+    },
+    {
+      "projectID": 361579,
+      "fileID": 3767277,
       "required": true
     },
     {
